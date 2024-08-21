@@ -1,0 +1,5 @@
+Curl Commands:
+
+curl --location --request GET 'http://localhost:8901/student/getLibraryBook'
+curl --location --request GET 'http://localhost:8902/library/borrowBook'
+curl --location --request GET 'http://localhost:8090/circuit/getResponse'
